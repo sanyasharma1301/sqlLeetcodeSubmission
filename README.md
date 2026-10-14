@@ -12,9 +12,7 @@ The solutions are automatically structured by problem ID and name. Inside each d
 * **The Solution File:** Containing the verified, accepted SQL query (`.sql`).
 * **Problem Statement:** Detailed information about the table schemas and requirements.
 
-### Featured Solutions
-* [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) — Basic filtering techniques.
-* [584-find-customer-referee](./584-find-customer-referee) — Handling `NULL` values efficiently in conditional clauses.
+
 
 ---
 
